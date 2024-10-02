@@ -5,3 +5,6 @@ python3 server.py
 ```
 
 Сайт будет доступен по адресу localhost:8000
+
+
+Презентации доступны в папке presentations
